@@ -7,7 +7,7 @@
 @license        ISC
 @homepageURL    https://github.com/one-dark/buildkite-dark-theme
 ==/UserStyle== */
-@-moz-document regexp("https://buildkite\\.com/(?!docs).*") {
+@-moz-document regexp("https://buildkite\\.com/(?!docs|blog).*") {
   :root {
     --base-0: #0d1117;
     --base-1000: hsl(0, 0%, 95%);
